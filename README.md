@@ -11,7 +11,7 @@
 - 👩‍🎓 Graduated college at 17 (AAS in Info Systems) | Now finishing my BS in CS at WGU
 - 💼 Interning full-time as a Junior Developer this summer  
 - 🏆 Love going to Hackathons | Attended 4 so far and won 1 with "Best Overall"  
-- 🔍 Working towards becoming a full-stack developer @ Google 
+- 🔍 Working towards becoming a Software Engineer
 
 ---
 
