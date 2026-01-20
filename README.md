@@ -3,6 +3,7 @@
 👩‍💻 Software Engineering @ WGU | Prev. Junior Developer @ WebSurfing Studios | SWE intern @ CacheAI Summer 2024
 
 📲 Currently building Aurify - A Communication Coach
+
 ♟️ Passionate about solving real-world problems through tech
 
 ---
