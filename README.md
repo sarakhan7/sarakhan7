@@ -2,7 +2,7 @@
 
 👩‍💻  Software Engineering @ WGU | Prev. Junior Developer @ WebSurfing Studios | SWE intern @ CacheAI Summer 2024
 
-🌸 Currently building cute, functional, AI-powered things with way too much pastel pink.  
+🌸 Currently building cute and functional tools with way too much pastel pink.  
 ♟️ Passionate about solving real-world problems through tech
 
 ---
