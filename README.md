@@ -1,7 +1,6 @@
 # 🌟 Hi there, I’m Sara Khan!
 
 👩‍💻  Software Engineering @ WGU | Prev. Junior Developer @ WebSurfing Studios | SWE intern @ CacheAI Summer 2024
-
 🌸 Currently building cute and functional tools with way too much pastel pink.  
 ♟️ Passionate about solving real-world problems through tech
 
