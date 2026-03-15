@@ -1,7 +1,7 @@
 # hello :D
 
 I'm Sara Khan, a CS major at WGU! Previously, I interned as a Junior Developer at WebSurfing Studios (Winter 2024) & SWE intern @ CacheAI (Summer 2025). 
-I'm an incoming intern at Reyes Holdings (Summer 2026)
+I'm an incoming intern at Reyes Holdings (Summer 2026).
 
 I'm currently building Aurify - A communication coach for the corporate world!
 
