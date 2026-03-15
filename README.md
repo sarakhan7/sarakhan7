@@ -1,17 +1,18 @@
-# 🌟 Hi there, I’m Sara Khan!
+# hello :D
 
-👩‍💻 Software Engineering @ WGU | Prev. Junior Developer @ WebSurfing Studios | SWE intern @ CacheAI Summer 2024
+I'm Sara Khan, a CS major at WGU! Previously, I interned as a Junior Developer at WebSurfing Studios (2024) & SWE intern @ CacheAI Summer 2025. 
+I'm an incoming intern at Reyes Holdings (Summer 2026)
 
-📲 Currently building Aurify - A Communication Coach
+I'm currently building Aurify - A communication coach for the corporate world!
 
-♟️ Passionate about solving real-world problems through tech
+I'm very passionate about solving real-world problems through tech! =D
 
 ---
 
 ## 🧁 A few things about me:
-- 👩‍🎓 Graduated college at 17 (AAS in Info Systems) | Now finishing my BS in CS at WGU 
-- 🏆 Love going to Hackathons | Attended 4 so far and won 1 with "Best Overall"  
-- 🔍 Working towards becoming a Software Engineer
+- 🎓 Graduated college at 17 (AAS in Info Systems) | Now finishing my BS in CS at WGU 
+- 🏆 I love going to Hackathons! I've attended 4 so far and won 1 with "Best Overall"  
+- 👩‍💻 I'm working towards becoming a Software Engineer
 
 ---
 
