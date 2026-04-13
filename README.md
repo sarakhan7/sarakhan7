@@ -11,7 +11,7 @@ I'm very passionate about solving real-world problems through tech! =D
 
 ## 🧁 A few things about me:
 - 🎓 Graduated college at 17 (AAS in Info Systems) | Now finishing my BS in CS at WGU 
-- 🏆 I love going to Hackathons! I've attended 4 so far and won 1 with "Best Overall"  
+- 🏆 I love going to Hackathons! I won JHHS hackathon with "Best Overall" & NU Wildhacks with "Grand prize #3" & "Appifex Awards"
 - 👩‍💻 I'm working towards becoming a Software Engineer
 - 🎨 I love, love, love art! I've been drawing & creating my whole life, which led me to discovering my love for creating things by coding :)
 
